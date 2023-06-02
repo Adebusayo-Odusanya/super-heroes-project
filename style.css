@@ -1,0 +1,25 @@
+body {
+    background-image: url('https://i.pinimg.com/originals/5d/e0/8d/5de08de24459fedac3d28b10a039e2a6.jpg');
+    font-size: 1.15rem;
+}
+
+button {
+    padding: 5px;
+    background-color:aliceblue;
+  color: black;
+  font-size: 0.8rem;
+  background-size:auto;
+}
+
+button:hover {
+    color: whitesmoke;
+    background-color: black;
+    font-size: 0.8rem;
+    border-radius: 10px;
+    box-shadow: 0.7em 0.1em 0.9em;
+}
+
+#searchInput {
+    padding: 5px;
+    box-shadow: 0.1em 0.1em 0.1em;
+}
